@@ -28,4 +28,13 @@ This repository contains various **Digital Signal Processing** lab experiments c
  
     i. PCM encoding and decoding. <br>
      ii. Block based DCT,3T DWT and 2T SVD.<br>
-     iii. DFT sequence:find Magnitude and Phase.
+     iii. DFT sequence:find Magnitude and Phase.<br>
+     
+ 5. [LAB-7](https://github.com/alamgir-ahosain/Digital-Signal-Processing-LAB/tree/main/Lab-7)
+      
+    i. Convolution of x(n) = (1,2,3) with h(n) = (1,2). <br>
+   ii.  For x(n) = (1,1,-1,-1), compute 4-point FFT (DIT) and verify using DFT.Methods: Convolution, Z-Transform, DFT.<br>
+   iii. MATLAB program to verify Sampling Theorem.<br>
+   iv. MATLAB program to compute DFT of a sequence and plot Magnitude & Phase.<br>
+
+    
